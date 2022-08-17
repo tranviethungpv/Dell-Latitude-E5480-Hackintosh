@@ -36,4 +36,3 @@
 ## Not tested yet
 ⚫ Display with VGA and USB-C (because I don't need them)  
 ⚫ Card Reader  
-# Dell-Latitude-E5480-Hackintosh
