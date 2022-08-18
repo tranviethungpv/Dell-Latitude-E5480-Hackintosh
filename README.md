@@ -3,6 +3,7 @@
 * OC ver: 0.8.3
 * Generate new SMBIOS before using.
 * Work fine on Monterey. If using BigSur, you'll need to make some changes with kext.
+* If you want to use Ventura, add boot-arg -lilubetaall and update Airportitlwm.kext.
 
 ## My Laptop Specs
 
