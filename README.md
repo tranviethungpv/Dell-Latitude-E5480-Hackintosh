@@ -3,7 +3,7 @@
 * OC ver: 0.8.3
 * Generate new SMBIOS before using.
 * Work fine on Monterey. If using BigSur, you'll need to make some changes with kext.
-* If you want to use Ventura, add boot-arg -lilubetaall and update Airportitlwm.kext.
+* If you want to use Ventura, add boot-arg -lilubetaall, update Airportitlwm.kext and change device-id in DeviceProperties to 7th Gen KabyLake (to fix iGPU).
 
 ## My Laptop Specs
 
